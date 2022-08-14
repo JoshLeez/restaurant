@@ -5,7 +5,8 @@ import spoon from '../assets/spoon.svg';
 import welcome from '../assets/welcome.png';
 import gericht from '../assets/gericht.png';
 
-export default {
+
+const exportedoject = {
   bg,
   G,
   knife,
@@ -13,3 +14,5 @@ export default {
   welcome,
   gericht,
 };
+
+export default exportobject
