@@ -6,7 +6,7 @@ import welcome from '../assets/welcome.png';
 import gericht from '../assets/gericht.png';
 
 
-const exportedoject = {
+const test = {
   bg,
   G,
   knife,
@@ -15,4 +15,4 @@ const exportedoject = {
   gericht,
 };
 
-export default exportedobject
+export default test;
