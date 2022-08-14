@@ -1,10 +1,7 @@
-import SubHeading from './SubHeading/SubHeading';
+import SubHeading from './SubHeading/SubHeading';Cancel changes
 import Navbar from './Navbar/Navbar';
 
 export {
   SubHeading,
-  Newsletter,
-  FooterOverlay,
-  MenuItem,
   Navbar,
 };
