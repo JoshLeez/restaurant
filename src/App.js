@@ -9,6 +9,7 @@ const App = () => (
     <Navbar/>
     <Header/>
     <AboutUs/>
+  </div>
 );
 
 export default App;
