@@ -15,4 +15,4 @@ const exportedoject = {
   gericht,
 };
 
-export default exportobject
+export default exportedobject
